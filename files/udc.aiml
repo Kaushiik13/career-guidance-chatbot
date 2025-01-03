@@ -2,11 +2,6 @@
 <aiml>
   <category>
     <pattern>*</pattern>
-    <template>
-        <random>
-            <li>What does that mean?</li>
-            <li>Could you rephrase that?</li>
-        </random>
-    </template>
+    <template>I have no answer for that.</template>
   </category>
 </aiml>
